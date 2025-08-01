@@ -1,3 +1,4 @@
+
 Brukermanual for Norsain QMS Dev
 1. Introduksjon
 Dette er en brukermanual for et kvalitetsledelsessystem (QMS) basert på ISO 9001:2015. Systemet bruker Supabase, Python og OpenAI AI-agent for å håndtere QMS-data og automatisere prosesser.
